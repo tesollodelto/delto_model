@@ -1,7 +1,7 @@
 ## 🦾 DG5F-S
 
 <p align="center">
-  <img src="images/dg5fs.gif" width="300" alt="DG5F-S Demo">
+  <img src="images/dg5fs.gif" width="600" alt="DG5F-S Demo">
 </p>
 
 > **⚠️ Notice**
