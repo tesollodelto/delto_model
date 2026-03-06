@@ -7,7 +7,7 @@
 > **⚠️ Notice**
 > Please note that the detailed parameters of the currently uploaded models are subject to change in future updates.
 
-This directory contains the 3D models and simulation configuration files for the **DG5F-S**. We provide various formats for both left and right hands, with variations including or excluding the base mount (`w_mount`).
+This directory contains the 3D models and simulation configuration files for the **DG5F-S**. We provide various formats for both left and right hands, with variations including or excluding the base mount (`_w_mount`).
 
 ### 📁 Directory Structure & Supported Formats
 
